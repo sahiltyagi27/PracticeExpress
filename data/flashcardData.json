@@ -1,0 +1,37 @@
+{
+    "data": {
+        "title": "JavaScript Flashcards",
+        "cards": [
+            {
+                "question": "Who is from Krypton?",
+                "hint": "His name starts with S",
+                "answer": "Superman"
+            },
+            {
+                "question": "Who works alone?",
+                "hint": "The dark knight",
+                "answer": "Batman"
+            },
+            {
+                "question": "Who runs very fast?",
+                "hint": "Lightning fast",
+                "answer": "Flash"
+            },
+            {
+                "question": "Who is most beautiful in the team?",
+                "hint": "WW",
+                "answer": "Wonder Woman"
+            },
+            {
+                "question": "Who is half human half metal?",
+                "hint": "Starts with C",
+                "answer": "Cyborg"
+            },
+            {
+                "question": "Who can swim really fast?",
+                "hint": "He uses a trident",
+                "answer": "Aquaman"
+            }
+        ]
+    }
+}

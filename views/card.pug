@@ -1,0 +1,12 @@
+extends layout.pug
+block content
+  section#content
+    h2= text
+      
+    if hint
+      p
+        i Hint: #{hint}
+    if side == 'question'
+        a(href=`#{id}?side=#{sideToShow}`) = sideToShow  
+    else 
+        a(href =`#{id}?side=#{sideToShow}`) = sideToShow 
